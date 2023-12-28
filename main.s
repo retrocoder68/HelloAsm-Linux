@@ -5,6 +5,7 @@
 .section .text
 
 _main:
-	call _exit
+	call _print_hello
+	call _sc_exit
 	ret
 
