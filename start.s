@@ -1,9 +1,10 @@
 # Copyright (C) 2023 Skywalker <j.karlsson@retrocoder.se>
 
-.global _print_hello
+.global _start
 
 .section .text
 
-_print_hello:
+_start:
+	call _main
 	ret
 

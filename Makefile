@@ -2,7 +2,7 @@
 
 # Program and object files
 APP=hello
-OBJS=hello.o
+OBJS=start.o main.o syscall.o hello.o
 
 # Tools
 AS=as
