@@ -1,0 +1,8 @@
+# Copyright (C) 2023 Skywalker <j.karlsson@retrocoder.se>
+
+# Executbles
+hello
+
+# Object files
+*.o
+
